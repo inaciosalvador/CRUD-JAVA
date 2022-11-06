@@ -1,0 +1,26 @@
+- bem vindo ao Mapet
+
+- 1 fazer login
+- 2 cadastre-se
+
+se 1:
+
+- usuario
+- senha
+
+se 2: 
+
+- nome
+- sobrenome
+- sexo (F/M)
+
+
+ao entrar no app:
+
+
+escolha uma opção:
+
+- cadastrar loja
+- consultar lojas
+- alterar cadastro
+- escluir cadastros 
